@@ -1,16 +1,16 @@
-<p align="center">
+<p align="left">
   <img src="https://cdn.prod.website-files.com/679811a6cc4d3fff5df16fff/688b9bc544fa57e225802f8b_7efdafebe7e1e01b2807c351f6efc947_CnP_31072025_183723.png" alt="mxi.design gastique" width="100%" />
 </p>
 
-<h1 align="center">Hi, ich bin Maxi 👋</h1>
+<h1 align="left">Hi, ich bin Maxi 👋</h1>
 
-<p align="center">
+<p align="left">
   <b>Full-Stack Developer</b> — SaaS-Plattformen, AI-Systeme &amp; Web-Apps<br/>
   <sub>München · TypeScript · Bun · PostgreSQL · React</sub>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=C77B30&center=true&vCenter=true&width=540&lines=Full-Stack+Developer+aus+M%C3%BCnchen;Ich+baue+SaaS-Plattformen+und+AI-Systeme.;TypeScript+%C2%B7+Bun+%C2%B7+PostgreSQL+%C2%B7+React" alt="typing" />
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=C77B30&vCenter=true&width=540&lines=Full-Stack+Developer+aus+M%C3%BCnchen;Ich+baue+SaaS-Plattformen+und+AI-Systeme.;TypeScript+%C2%B7+Bun+%C2%B7+PostgreSQL+%C2%B7+React" alt="typing" />
 </p>
 
 ---
@@ -36,13 +36,22 @@ Ich bin Developer und baue Software end-to-end — vom Datenmodell über die API
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**No-Code / Low-Code**
+
 ![Webflow](https://img.shields.io/badge/Webflow-146EF5?style=for-the-badge&logo=webflow&logoColor=white)
+![Xano](https://img.shields.io/badge/Xano-002859?style=for-the-badge)
+![Nordcraft](https://img.shields.io/badge/Nordcraft-1A1A2E?style=for-the-badge)
 
 **Daten &amp; Infrastruktur**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%2017-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+![Turso](https://img.shields.io/badge/Turso%20(LibSQL)-4FF8D2?style=for-the-badge&logo=turso&logoColor=black)
+![Meilisearch](https://img.shields.io/badge/Meilisearch-FF5CAA?style=for-the-badge&logo=meilisearch&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Bunny CDN](https://img.shields.io/badge/Bunny%20CDN-FF7400?style=for-the-badge)
 
 **AI / ML &amp; Search**
 
@@ -51,6 +60,7 @@ Ich bin Developer und baue Software end-to-end — vom Datenmodell über die API
 ![Embeddings](https://img.shields.io/badge/Embeddings-C77B30?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MCP_Servers-8A5A28?style=for-the-badge)
 ![Agents](https://img.shields.io/badge/AI_Agents-8A5A28?style=for-the-badge)
+![Claude Agent SDK](https://img.shields.io/badge/Claude_Agent_SDK-8A5A28?style=for-the-badge)
 ![Transformers.js](https://img.shields.io/badge/Transformers.js-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ---
@@ -60,18 +70,3 @@ Ich bin Developer und baue Software end-to-end — vom Datenmodell über die API
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mxidesign-gastique&hide_border=true&ring=C77B30&fire=C77B30&currStreakLabel=C77B30&background=00000000&stroke=808080" alt="streak" />
 </p>
-
----
-
-### Schwerpunkte
-
-| Bereich | Was ich baue |
-|---|---|
-| **SaaS &amp; Plattformen** | Multi-Tenant-Architektur, Menü- &amp; Discovery-Produkte, Billing |
-| **AI &amp; Search** | Hybrid-Retrieval (dense + BM25), RAG, MCP-Server, AI-Copilots |
-| **Web &amp; Frontend** | React / Next.js, Webflow, Headless CMS (Directus) |
-| **Daten** | PostgreSQL (pgvector, Apache AGE), ClickHouse, Analytics-Pipelines |
-
----
-
-<p align="center"><sub>Fun Fact: Ich tüftle genauso gern an Espresso-Setups wie an Datenbank-Indizes.</sub></p>
