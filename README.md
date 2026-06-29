@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://cdn.prod.website-files.com/679811a6cc4d3fff5df16fff/688b9bc544fa57e225802f8b_7efdafebe7e1e01b2807c351f6efc947_CnP_31072025_183723.png" alt="mxi.design gastique" width="100%" />
+</p>
+
 <h1 align="center">Hi, ich bin Maxi 👋</h1>
 
 <p align="center">
@@ -14,16 +18,6 @@
 ### Über mich
 
 Ich bin Developer und baue Software end-to-end — vom Datenmodell über die API bis zum Frontend. Schwerpunkt sind **SaaS-Plattformen**, **Such- und AI-Systeme** (RAG, Vektor-Suche, MCP) und produktive Web-Apps. Am liebsten im **TypeScript-/Bun-Ökosystem** mit **PostgreSQL** als Backbone.
-
-```ts
-const maxi = {
-  role:      "Full-Stack Developer",
-  stack:     ["TypeScript", "Bun", "React / Next.js", "PostgreSQL", "Python"],
-  building:  "SaaS-Plattformen & AI-gestützte Web-Apps",
-  interests: ["RAG & Vektor-Suche", "MCP / AI-Agents", "saubere Architektur"],
-  approach:  "pragmatisch · opinionated · kein Overhead",
-};
-```
 
 ---
 
@@ -48,8 +42,6 @@ const maxi = {
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%2017-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
-![Directus](https://img.shields.io/badge/Directus-263238?style=for-the-badge&logo=directus&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **AI / ML &amp; Search**
@@ -64,15 +56,6 @@ const maxi = {
 ---
 
 ### GitHub Statistiken
-
-<p align="center">
-  <a href="https://github.com/mxidesign-gastique">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=mxidesign-gastique&show_icons=true&hide_rank=true&hide_border=true&title_color=C77B30&icon_color=C77B30&text_color=808080&bg_color=00000000&cache_seconds=86400" alt="stats" />
-  </a>
-  <a href="https://github.com/mxidesign-gastique">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxidesign-gastique&layout=compact&hide_border=true&title_color=C77B30&text_color=808080&bg_color=00000000&langs_count=8&cache_seconds=86400" alt="top langs" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mxidesign-gastique&hide_border=true&ring=C77B30&fire=C77B30&currStreakLabel=C77B30&background=00000000&stroke=808080" alt="streak" />
