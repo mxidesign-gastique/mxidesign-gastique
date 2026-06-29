@@ -57,7 +57,7 @@ Ich bin Developer und baue Software end-to-end — vom Datenmodell über die API
 
 ### GitHub Statistiken
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mxidesign-gastique&hide_border=true&ring=C77B30&fire=C77B30&currStreakLabel=C77B30&background=00000000&stroke=808080" alt="streak" />
 </p>
 
