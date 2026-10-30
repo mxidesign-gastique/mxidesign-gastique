@@ -1,5 +1,5 @@
 <a href="https://www.mxidesign.de">
-  <img src="assets/banner.png" width="100%" alt="mxi.design: Design. Web. Code. Maximilian Kunstwadl runs mxi.design in Munich.">
+  <img src="assets/banner-en.png" width="100%" alt="mxi.design: Design. Web. Code. Maximilian Kunstwadl runs mxi.design in Munich.">
 </a>
 
 ### Hi, I'm Maxi.
@@ -10,7 +10,7 @@ Our client work lives in private repositories. If you'd like to talk about your 
 
 <br>
 
-<img src="assets/ablauf.png" width="100%" alt="How we work: analysis, strategy, build and care. You always know where your project stands.">
+<img src="assets/how-we-work-en.png" width="100%" alt="How we work: analysis, strategy, build and care. You always know where your project stands.">
 
 <br>
 
