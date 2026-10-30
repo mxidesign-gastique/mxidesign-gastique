@@ -1,24 +1,24 @@
 <a href="https://www.mxidesign.de">
-  <img src="assets/banner.png" width="100%" alt="mxi.design: Design. Web. Code. Maximilian Kunstwadl führt mxi.design in München.">
+  <img src="assets/banner.png" width="100%" alt="mxi.design: Design. Web. Code. Maximilian Kunstwadl runs mxi.design in Munich.">
 </a>
 
-### Hallo, ich bin Maxi.
+### Hi, I'm Maxi.
 
-Mit mxi.design gestalten und bauen wir in München Webseiten, Software und Apps, Logos, Drucksachen und Fotos für Marken, die mehr wollen. Design und Code kommen dabei aus einer Hand, und nach dem Start bleiben wir für dich da.
+With mxi.design in Munich, we design and build websites, software and apps, logos, print and photography for brands that want more. Design and code come from one team, and we stay with you after launch.
 
-Unsere Kundenprojekte liegen in privaten Repositories. Wenn du über dein nächstes Projekt sprechen willst, buch dir einfach einen Termin oder schreib uns.
-
-<br>
-
-<img src="assets/ablauf.png" width="100%" alt="Wie wir arbeiten: Analyse, Strategie, Umsetzung und Betreuung. Du weißt immer, wo dein Projekt steht.">
+Our client work lives in private repositories. If you'd like to talk about your next project, book a call or drop us a line.
 
 <br>
 
-<a href="https://cal.com/mxi.design/meet-greet"><img src="assets/btn-termin.png" height="48" alt="Termin buchen"></a>&nbsp;
-<a href="mailto:info@mxi.design"><img src="assets/btn-mail.png" height="48" alt="E-Mail an info@mxi.design"></a>&nbsp;
+<img src="assets/ablauf.png" width="100%" alt="How we work: analysis, strategy, build and care. You always know where your project stands.">
+
+<br>
+
+<a href="https://cal.com/mxi.design/meet-greet"><img src="assets/btn-call.png" height="48" alt="Book a call"></a>&nbsp;
+<a href="mailto:info@mxi.design"><img src="assets/btn-mail.png" height="48" alt="Email info@mxi.design"></a>&nbsp;
 <a href="https://www.mxidesign.de"><img src="assets/btn-web.png" height="48" alt="www.mxidesign.de"></a>&nbsp;
-<a href="https://www.linkedin.com/in/mxik/"><img src="assets/btn-linkedin.png" height="48" alt="Maxi auf LinkedIn"></a>
+<a href="https://www.linkedin.com/in/mxik/"><img src="assets/btn-linkedin.png" height="48" alt="Maxi on LinkedIn"></a>
 
 <br>
 
-<sub>Außerdem von mir: <a href="https://www.gastique.de">Gastique</a></sub>
+<sub>Also by me: <a href="https://www.gastique.de">Gastique</a></sub>
